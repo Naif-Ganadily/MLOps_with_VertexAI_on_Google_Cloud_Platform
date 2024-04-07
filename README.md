@@ -1,7 +1,7 @@
 # MLOps_with_VertexAI_on_Google_Cloud_Platform
 
 **1. Introduction - Vertex AI for ML Operations**
-Introduction to the playlist of end-to-end workflow walkthroughs for machine learning operations using Google Cloud Platform’s Vertex AI. 
+- Introduction to the playlist of end-to-end workflow walkthroughs for machine learning operations using Google Cloud Platform’s Vertex AI. 
 
 **2. Environment Setup - Vertex AI for ML Operations [notebook 00]**
 - A walkthrough of creating a Google Cloud Platform project and setting up the environment for this series of end-to-end workflows.   This video follows the readme and the first notebook [00 - Environment Setup] in the repository.
