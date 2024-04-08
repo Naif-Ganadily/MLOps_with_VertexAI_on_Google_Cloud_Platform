@@ -9,8 +9,6 @@
 **3. Data Source - Vertex AI for ML Operations [notebook 01]**
 - A walkthrough of creating the data source for this project using BigQuery. We will import, review, and prepare the data for use in machine learning workflows.  This video follows the notebook [01 - BigQuery - Table Data Source] in the repository.
 
-**4. End-To-End: No Code - AutoML in Vertex AI for ML Operations [notebook 02a]**
-- An end-to-end workflow completely within the Vertex AI interface in the Google Cloud Console. We will use AutoML to train a machine learning model.  A walkthrough of all the steps from connecting to data sources, training a model, evaluating the final model, deploying to an online endpoint and requesting predictions from multiple clients.  A few deep dives along the way!  This video follows the notebook 02a - Vertex AI - AutoML in GCP Console (no code).
 
 
 
